@@ -1,11 +1,11 @@
 # Traffic Linear Regression
 
-| Info | Detail |
-|------|--------|
-| Nama | Faiq Muhammad |
-| NIM | F5512510001 |
-| Kelas | TI A |
-| MK | Statistik dan Probabilitas |
+> **Nama:** Faiq Muhammad  
+> **NIM:** F5512510001  
+> **Kelas:** TI A  
+> **MK:** Metode Numerik
+
+---
 
 ## Deskripsi
 Analisis Regresi Linear Berganda untuk memprediksi tingkat kemacetan
