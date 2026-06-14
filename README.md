@@ -13,12 +13,12 @@ lalu lintas berdasarkan jumlah kendaraan (mobil, motor, bus, truk).
 
 ## Cara Menjalankan
 
-Install library:
+**Install library:**
 ```fish
 pip install pandas numpy matplotlib seaborn statsmodels
 ```
 
-Jalankan program:
+**Jalankan program:**
 ```fish
 python regresi.py
 ```
