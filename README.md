@@ -11,14 +11,7 @@
 Analisis Regresi Linear Berganda untuk memprediksi tingkat kemacetan
 lalu lintas berdasarkan jumlah kendaraan (mobil, motor, bus, truk).
 
-## Setup
-
-Install library yang dibutuhkan:
-```fish
-pip install -r requirements.txt
-```
-
-Jalankan program:
+## Cara Menjalankan
 ```fish
 python regresi.py
 ```
