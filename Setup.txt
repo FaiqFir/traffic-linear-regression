@@ -1,5 +1,0 @@
-Jalankan ini untuk tugasnya
-
-cd ~/tugas-regresi
-source venv/bin/activate
-code .
