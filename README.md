@@ -1,4 +1,4 @@
-# Traffic Congestion Analysis
+# Traffic Linear Regression
 
 | Info | Detail |
 |------|--------|
